@@ -1,0 +1,9 @@
+# AUTOMAGICAL USER FLAIR ASSIGNMENT - I EAT WASPS (JOKE)
+    type: any
+    author:
+        post_karma: '> 100'
+        set_flair: ["I EAT WASPS", ""]
+    overwrite_flair: true
+    moderators_exempt: false
+
+# EDITED VIA PRAW
